@@ -13,6 +13,7 @@ _________   ____________ ____ ____ ____   _____
 ## 📝 Notes
 
 - The **final operational code** that controls our robot is located in the **`Main-code`** directory.
+  
 - The **colour sensor calibration code** is **not used during the actual run**; it is only for **calibrating our colour sensor readings**.
 
 ---
@@ -35,8 +36,8 @@ This repository contains all code and resources developed for the **NUS CG1111A 
 ---
 ## 💻 Credits
 
-PID library for Arduino IDE by Brett Beauregard.
+-PID library for Arduino IDE by Brett Beauregard.
 
-Makeblock library for mbot by Makeblock.
+-Makeblock library for mbot by Makeblock.
 
 
