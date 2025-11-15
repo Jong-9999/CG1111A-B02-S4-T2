@@ -30,7 +30,7 @@ PANG YAN HERN
 ---
 
 ## 🎯 Purpose
-This repository contains all code and resources developed for the **NUS CG1111A (Engineering Principles and Practice)** robot design project.
+This repository contains all code and resources developed for the **NUS CG1111A (Engineering Principles and Practice)** robot design project. Written for Makeblock Mbot.
 
 ---
 
