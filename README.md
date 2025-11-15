@@ -31,13 +31,13 @@ PANG YAN HERN
 ---
 
 ## 🎯 Purpose
-This repository contains all code and resources developed for the **NUS CG1111A (Engineering Principles and Practice)** robot design project. Written for Makeblock Mbot.
+This repository contains all code and resources developed for the **NUS CG1111A (Engineering Principles and Practice)** robot design project. Written for Makeblock mBot.
 
 ---
 ## 💻 Credits
 
--PID library for Arduino IDE by Brett Beauregard.
+- PID library for Arduino IDE by Brett Beauregard.
 
--Makeblock library for mbot by Makeblock.
+- Makeblock library for mBot by Makeblock.
 
 
