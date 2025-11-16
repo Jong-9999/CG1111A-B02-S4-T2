@@ -46,7 +46,7 @@ enum Motion {
     FORWARD, CHECK
 };
 Motion State;
-State = FORWARD; // Default state of motion is FORWARD
+Motion State = FORWARD; // Default state of motion is FORWARD
 
 /* Variables used for PID Controller */
 double Setpoint, Input, Output;
