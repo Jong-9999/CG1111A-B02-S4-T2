@@ -45,7 +45,6 @@ int currentColour[3] = {0, 0, 0}; // Store RGB Values during detection
 enum Motion {
     FORWARD, CHECK
 };
-Motion State;
 Motion State = FORWARD; // Default state of motion is FORWARD
 
 /* Variables used for PID Controller */
