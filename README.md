@@ -34,10 +34,12 @@ PANG YAN HERN
 This repository contains all code and resources developed for the **NUS CG1111A (Engineering Principles and Practice)** robot design project. Written for Makeblock mBot.
 
 ---
-## 💻 Credits
-
+## 💻 Credits & Dependencies
+Install the following libraries to compile our main code 'project.ino'
 - PID library for Arduino IDE by Brett Beauregard.
+- https://github.com/br3ttb/Arduino-PID-Library
 
 - Makeblock library for mBot by Makeblock.
+- https://github.com/Makeblock-official/Makeblock-Libraries
 
 
